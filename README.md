@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on:<br>Frontend projects using HTML, CSS, JavaScript & React<br><br>🤝 Looking to collaborate on:<br>Web apps and beginner-friendly open-source projects<br><br>🆘 Looking for help with:<br>Advanced React patterns and API integration<br><br>🌱 Currently learning:<br>React.js, modern JavaScript, and backend basics<br><br>💬 Ask me about:<br>Frontend development, UI design, and GitHub workflows<br><br>⚡ Fun fact:<br>I'm a Computer Engineering student who loves turning ideas into clean, interactive UIs<br>
+🔭 Currently working on:<br>Frontend projects using HTML, CSS, JavaScript & React<br><br>🤝 Looking to collaborate on:<br>Web apps and beginner-friendly open-source projects<br><br>🆘 Looking for help with:<br>Advanced React patterns and API integration<br><br>🌱 Currently learning:<br>React.js, modern JavaScript, and backend basics<br><br>💬 Ask me about:<br>Frontend development, UI design, and GitHub workflows<br><br>⚡ Fun fact:<br>I'm a Computer Engineering student who loves turning ideas into clean, interactive UIs.<br>
 
 
 ## 🌐 Socials:
