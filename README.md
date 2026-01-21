@@ -44,13 +44,12 @@ A computer engineering student with a passion for frontend development, React.js
 
 <h3 align="left">Weekly Coding Activity (WakaTime)</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bibek_Chand" alt="Weekly Coding Activity"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bibek_Chand" alt="Weekly Coding Activity"/>
 </p>
 
 <p>
-  <img src="https://wakatime.com/share/@Bibek_Chand/top-languages.svg" alt="Top Languages"/>
+<img src="https://wakatime.com/share/@Bibek_Chand/top-languages.svg" alt="Top Languages"/>
 </p>
-
 
 ---
 
