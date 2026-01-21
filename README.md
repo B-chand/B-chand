@@ -42,6 +42,18 @@ A computer engineering student with a passion for frontend development, React.js
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Weekly Coding Activity (WakaTime)</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bibek_Chand" alt="Weekly Coding Activity"/>
+</p>
+
+<p>
+  <img src="https://wakatime.com/share/@Bibek_Chand/top-languages.svg" alt="Top Languages"/>
+</p>
+
+
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-chand&show_icons=true&locale=en&layout=compact" alt="b-chand" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-chand&show_icons=true&locale=en" alt="b-chand" /></p>
