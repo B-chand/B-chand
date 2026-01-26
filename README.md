@@ -1,3 +1,4 @@
+
 <!-- MasterHead GIF -->
 ![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
@@ -43,13 +44,15 @@ A computer engineering student with a passion for frontend development, React.js
 </p>
 
 <h3 align="left">Weekly Coding Activity (WakaTime)</h3>
+
 <p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bibek_Chand" alt="Weekly Coding Activity"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=B_chand" />
 </p>
 
 <p>
-<img src="https://wakatime.com/share/@Bibek_Chand/top-languages.svg" alt="Top Languages"/>
+  <img src="https://wakatime.com/share/@B_chand/top-languages.svg" />
 </p>
+
 
 ---
 
