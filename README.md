@@ -24,7 +24,7 @@ A computer engineering student with a passion for frontend development, React.js
 <p align="left">
 <a href="https://twitter.com/bibek_x1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bibek_x1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bibek-chand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibek chand" height="30" width="40" /></a>
-<a href="https://instagram.com/_bibek_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bibek_10" height="30" width="40" /></a>
+<a href="https://instagram.com/__bibek_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bibek_10" height="30" width="40" /></a>
 <a href="https://discord.gg/bibek_67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bibek_67" height="30" width="40" /></a>
 </p>
 
