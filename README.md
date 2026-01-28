@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&pause=1200&color=FF4500&center=true&vCenter=true&weight=700&width=280&repeat=false&lines=Hi...+%F0%9F%91%8B" alt="Hi Typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&pause=1200&color=FF4500&center=true&vCenter=true&weight=700&width=280&repeat=false&lines=Hi...+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=900&color=4B0082&center=true&vCenter=true&weight=700&width=720&repeat=false&lines=I'm+Bibek+Chand;Computer+Engineering+Student;Exploring+and+learning+modern+technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=900&color=4B0082&center=true&vCenter=true&weight=700&width=720&repeat=false&lines=I'm+Bibek+Chand;Computer+Engineering+Student;Exploring+and+learning+modern+technology" />
 </p>
 
-<!-- MasterHead GIF -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="MasterHead" />
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" />
 </p>
 
 <p align="center">
@@ -17,82 +17,89 @@ Currently learning <b>React</b> and cloud technologies.<br>
 I love building web applications that are <b>interactive</b>, <b>scalable</b>, and <b>well-structured</b>.
 </p>
 
----
-
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=b-chand&label=Profile%20views&color=0e75b6&style=flat" alt="b-chand" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=b-chand&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/bibek_x1" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/bibek_x1?logo=twitter&style=for-the-badge" alt="bibek_x1" />
+<p>
+  <a href="https://twitter.com/bibek_x1">
+    <img src="https://img.shields.io/twitter/follow/bibek_x1?logo=twitter&style=for-the-badge"/>
   </a>
 </p>
 
----
+<img align="right" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmFyOGFwZmQ1eHh2MHh5cHlrc29raHY2eHBwNmd1bTNuNjN2c2Y1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200.gif"/>
 
-### 🌱 About Me
+## 🌱 About Me
+
 - 🌱 Currently learning **React & Cloud (AWS basics)**  
 - 📫 Reach me at **bibekchand015@gmail.com**  
 - ⚡ Fun fact: *I’m secretly Spiderman… but shhh 🕷️*
 
----
+## 🔗 Connect with me
 
-### 🔗 Connect with me
 <p align="left">
-  <a href="https://twitter.com/bibek_x1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  <a href="https://twitter.com/bibek_x1">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/bibek-chand" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://linkedin.com/in/bibek-chand">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
-  <a href="https://instagram.com/__bibek_10" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <a href="https://instagram.com/__bibek_10">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
   </a>
-  <a href="https://discord.gg/bibek_67" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+  <a href="https://discord.gg/bibek_67">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/>
   </a>
 </p>
 
----
+# 🚀 Tech Stack
 
-### 🛠 Languages & Tools
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+## 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
-
-### ⏱ Weekly Coding Activity
+## ⚛️ Frameworks & Libraries
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=B_chand" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
+## 🧰 Tools & Platforms
 <p>
-  <img src="https://wakatime.com/share/@B_chand/top-languages.svg" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
+## ⏱ Weekly Coding Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b-chand&layout=compact" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=b-chand&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=B_chand"/>
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-chand" />
+  <img src="https://wakatime.com/share/@B_chand/top-languages.svg"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b-chand&layout=compact"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=b-chand&show_icons=true"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-chand"/>
 </p>
