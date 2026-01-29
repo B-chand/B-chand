@@ -31,8 +31,9 @@ I love building web applications that are <b>interactive</b>, <b>scalable</b>, a
 
 ## 🌱 About Me
 
-- 🌱 Currently learning **Full stack development & Cloud (AWS basics)**  
+- 🌱 Currently learning **React & Cloud (AWS basics)**  
 - 📫 Reach me at **bibekchand015@gmail.com**  
+- ⚡ Fun fact: *I’m secretly Spiderman… but shhh 🕷️*
 
 ## 🔗 Connect with me
 
