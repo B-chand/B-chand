@@ -82,6 +82,6 @@ I love building web applications that are <b>interactive</b>, <b>scalable</b>, a
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=B-chand)
 
-![Bibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-chand&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats-peach-nine.vercel.app?user=B-chand&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-chand&layout=compact)
 
