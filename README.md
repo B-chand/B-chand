@@ -80,10 +80,27 @@ I love building web applications that are <b>interactive</b>, <b>scalable</b>, a
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-[![Bibek's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=B-chand)](https://github.com/B-chand/github-readme-stats-fast)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=B-chand&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=B-chand&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=B-chand&theme=radical)
+## 📊 GitHub & Coding Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=B-chand&layout=compact&theme=radical"
+    width="420"
+    height="180"
+    style="margin: 0 6px;"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=B-chand&show_icons=true&theme=radical"
+    width="420"
+    height="180"
+    style="margin: 0 6px;"
+  />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=B-chand&theme=radical" />
+</p>
+
 
 
