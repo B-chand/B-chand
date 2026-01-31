@@ -32,7 +32,7 @@ I love building web applications that are <b>interactive</b>, <b>scalable</b>, a
 
 ## 🌱 About Me
 
-- 🌱 Currently learning **React & Cloud (AWS basics)**  
+- 🌱 Currently learning **React & Cloud (AWS)**  
 - 📫 Reach me at **bibekchand015@gmail.com**  
 - ⚡ Fun fact: *I’m secretly Spiderman… but shhh 🕷️*
 
