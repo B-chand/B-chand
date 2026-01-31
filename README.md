@@ -80,8 +80,10 @@ I love building web applications that are <b>interactive</b>, <b>scalable</b>, a
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=B-chand)
+[![Bibek's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=B-chand)](https://github.com/B-chand/github-readme-stats-fast)
 
-[![GitHub Streak](https://github-readme-streak-stats-peach-nine.vercel.app?user=B-chand&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-chand&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=B-chand&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=B-chand&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=B-chand&theme=radical)
+
 
