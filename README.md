@@ -27,7 +27,8 @@ I love building web applications that are <b>interactive</b>, <b>scalable</b>, a
   </a>
 </p>
 
-<img align="right" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmFyOGFwZmQ1eHh2MHh5cHlrc29raHY2eHBwNmd1bTNuNjN2c2Y1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
+
 
 ## 🌱 About Me
 
