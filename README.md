@@ -32,7 +32,7 @@ Focused on creating web applications that are <b>interactive</b>, <b>scalable</b
 
 ## 🌱 About Me
 
-- 🌱 Currently learning **React & Cloud (AWS)**  
+- 🌱 Currently learning **Full Stack Development & Cloud Engineering**  
 - 📫 Reach me at **bibekchand015@gmail.com**  
 - ⚡ Fun fact: *I’m secretly Spiderman… but shhh 🕷️*
 
