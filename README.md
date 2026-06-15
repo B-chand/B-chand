@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-Driven by a passion for <b>Full-Stack Development</b> and <b>Cloud Computing</b> ☁️<br>
+Driven by a passion for <b>Full-Stack Development</b> and <b>Cloud Engineering</b> ☁️<br>
 Building with <b>React</b>, <b>Django</b>, and Cloud Technologies.<br>
 Focused on creating web applications that are <b>interactive</b>, <b>scalable</b>, and <b>well-structured</b>.
 </p>
